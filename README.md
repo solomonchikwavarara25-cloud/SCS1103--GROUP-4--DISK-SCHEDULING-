@@ -24,3 +24,4 @@
 
 ## Individual Contributions
 
+Added the research question and the first objective
