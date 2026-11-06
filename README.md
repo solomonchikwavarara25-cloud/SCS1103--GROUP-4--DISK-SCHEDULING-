@@ -14,10 +14,10 @@
 | Tinashe T Macheza | N02652163J | Ti-nashe | Documentation and Evaluation |
 | Tawanaishe B Chirenje | n02640892x |N02640892X| Testing and Evaluation |
 | Makiwa Malvin| no2654040x | Malvin45 | Programmer and system designing|
-|Tafadzwa Chikuvire| N02651103C | tafadzwachikuvireg| Research|
-| Member 4 | To be filled | To be filled | Programmer |
-| Member 4 | To be filled | To be filled | Programmer |
-| Member 4 | To be filled | To be filled | Programmer |
+| Hannah Hove|N02652892E|Hannah-06-beep | Testing and presenting|
+| Kaopesh Chikwature | N02651006M | kaopesh7 | Research and Analysis |
+| Sheunopa Chitauro | N02645487G | SheunopaChitauro | Programmer and system designing |
+| Tafadzwa Chikuvire| N02651103C | tafadzwachikuvireg| Research|
 | Member 4 | To be filled | To be filled | Programmer |
 | Member 4 | To be filled | To be filled | Programmer |
 | Member 4 | To be filled | To be filled | Programmer |
