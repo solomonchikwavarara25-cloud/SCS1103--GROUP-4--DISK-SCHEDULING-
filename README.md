@@ -15,7 +15,7 @@
 | Tawanaishe B Chirenje | n02640892x |N02640892X| Testing and Evaluation |
 | Makiwa Malvin| no2654040x | Malvin45 | Programmer and system designing|
 | Hannah Hove|N02652892E|Hannah-06-beep | Testing and presenting|
-| Member 4 | To be filled | To be filled | Programmer |
+| Kaopesh Chikwature | N02651006M | kaopesh7 | Research and Analysis |
 | Member 4 | To be filled | To be filled | Programmer |
 | Member 4 | To be filled | To be filled | Programmer |
 | Member 4 | To be filled | To be filled | Programmer |
