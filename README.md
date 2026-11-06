@@ -18,7 +18,7 @@
 | Kaopesh Chikwature | N02651006M | kaopesh7 | Research and Analysis |
 | Sheunopa Chitauro | N02645487G | SheunopaChitauro | Programmer and system designing |
 | Member 4 | To be filled | To be filled | Programmer |
-| Member 4 | To be filled | To be filled | Programmer |
+| Panashe Chisango | N02651729S |Panashe2006| Programmer and system designer|
 | Member 4 | To be filled | To be filled | Programmer |
 | Member 4 | To be filled | To be filled | Programmer |
 
