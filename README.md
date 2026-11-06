@@ -13,7 +13,7 @@
 | Bright Mudimu| N02651784C| brightm14| group_leader, writer and presenter |
 | Tinashe T Macheza | N02652163J | Ti-nashe | Documentation and Evaluation |
 | Tawanaishe B Chirenje | n02640892x |N02640892X| Testing and Evaluation |
-| Member 4 | To be filled | To be filled | Programmer |
+| Makiwa Malvin| no2654040x | Malvin45 | Programmer and system designing|
 | Member 4 | To be filled | To be filled | Programmer |
 | Member 4 | To be filled | To be filled | Programmer |
 | Member 4 | To be filled | To be filled | Programmer |
