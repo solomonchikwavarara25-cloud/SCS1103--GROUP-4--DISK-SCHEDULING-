@@ -10,7 +10,7 @@
 | Mukodza Taurai K|N02642099Y | Mukodza| Dataset Researcher |
 | Member 3 | To be filled | To be filled | System Designer |
 | Member 4 | To be filled | To be filled | Programmer |
-| Bright Mudimu| N02651784C| brightm14| group_leader writer and presenter |
+| Bright Mudimu| N02651784C| brightm14| group_leader, writer and presenter |
 | Member 6 | To be filled | To be filled | Documentation and Evaluation |
 
 ## Individual Contributions
