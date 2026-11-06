@@ -8,7 +8,7 @@
 |---|---|---|---|
 | Solomon Chikwavarara | n02648532w| solomonchikwavarara25-cloud | project manager,testing and evaluation,presenter|
 | Mukodza Taurai K|N02642099Y | Mukodza| Dataset Researcher |
-| Member 3 | To be filled | To be filled | System Designer |
+| Panashe Chisango |N02651729S |Panashe2006| Programmer and System Designer |
 | Kachafa Julius|N02655625D| Julius29 | Programmer |
 | Bright Mudimu| N02651784C| brightm14| group_leader, writer and presenter |
 | Tinashe T Macheza | N02652163J | Ti-nashe | Documentation and Evaluation |
@@ -18,7 +18,7 @@
 | Kaopesh Chikwature | N02651006M | kaopesh7 | Research and Analysis |
 | Sheunopa Chitauro | N02645487G | SheunopaChitauro | Programmer and system designing |
 | Member 4 | To be filled | To be filled | Programmer |
-| Panashe Chisango | N02651729S |Panashe2006| Programmer and system designer|
+| to be filled| to be filled |to be filled | system designer|
 | Member 4 | To be filled | To be filled | Programmer |
 | Member 4 | To be filled | To be filled | Programmer |
 
