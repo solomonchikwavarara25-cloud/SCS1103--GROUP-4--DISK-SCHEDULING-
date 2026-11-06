@@ -11,7 +11,7 @@
 | Member 3 | To be filled | To be filled | System Designer |
 | Member 4 | To be filled | To be filled | Programmer |
 | Bright Mudimu| N02651784C| brightm14| group_leader, writer and presenter |
-| Member 6 | To be filled | To be filled | Documentation and Evaluation |
+| Tinashe T Macheza | N02652163J | Ti-nashe | Documentation and Evaluation |
 
 ## Individual Contributions
 
