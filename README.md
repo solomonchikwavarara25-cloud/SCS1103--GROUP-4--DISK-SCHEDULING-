@@ -23,8 +23,10 @@
 | Member 4 | To be filled | To be filled | Programmer |
 
 Research Question: How can different hard disk scheduling algorithms affect the time taken to retrieve university information from a simulated disk?
+
 Aim: To build a small simulator that compares hard disk scheduling algorithms using requests for university information
-Objectives 
+
+Objectives:
 - Implement the First Come First Served (FCFS), Shortest Seek Time First (SSTF) disk scheduling algorithms in a simulator
 - Run the algorithms on requests sequences taken from the Meta storage block traces (2023)
 
