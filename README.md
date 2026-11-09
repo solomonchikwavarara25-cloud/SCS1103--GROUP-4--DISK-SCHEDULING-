@@ -10,7 +10,7 @@
 | Mukodza Taurai K|N02642099Y | Mukodza| Dataset Researcher |
 | Panashe Chisango |N02651729S |Panashe2006| Programmer and System Designer |
 | Kachafa Julius|N02655625D| Julius29 | Programmer |
-| Bright Mudimu| N02651784C| brightm14| group_leader, writer and presenter |
+| Bright Mudimu| N02651783C| brightm14| group_leader, writer and presenter |
 | Tinashe T Macheza | N02652163J | Ti-nashe | Documentation and Evaluation |
 | Tawanaishe B Chirenje | n02640892x |N02640892X| Testing and Evaluation |
 | Makiwa Malvin| no2654040x | Malvin45 | Programmer and system designing|
